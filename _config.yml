@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yucheng Zhang"
-  avatar           : "profile.png"
+  avatar           : "../profile.png"
   bio              : "I'm a thrid year student from ZJUI, currently in an exchange program to UIUC"
   location         : "Urbana Illinois"
   employer         :
