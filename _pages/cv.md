@@ -5,7 +5,7 @@ Phone: (+86)15968096092. Email: yucheng.21@intl.zju.edu.cn
 **Education:**
 
 - **Zhejiang University  **Electric and Computer Engineering.  2021.9-
-- **University of Illinois at Urbana-Champaign￿￿**Computer Engineering.  2021.9 --
+- **University of Illinois at Urbana-Champaign￿￿**Computer Engineering.￿￿2021.9 --
 
 **Research Experience:**
 
@@ -40,7 +40,7 @@ Zhejiang University - University of Illinois at Urbana-Champaign Institut￿￿2
 
 **Skills:**
 
-**C/C++  Python**
+**C/C++￿￿Python**
 
 **Pubilcations:**
 
