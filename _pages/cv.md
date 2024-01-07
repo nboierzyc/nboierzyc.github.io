@@ -17,7 +17,7 @@ Using neural network method to detect and identify motions with the learning dat
 
 **2.Summer research project about encrypting DNN Advisor: Prof. Jian Liu**
 
-Using Vole style OT to achieve fast encryption of the data and model
+Using Vole-style OT to achieve fast encryption of the data and model
 
 to ensure the safety of the information of both client and server.
 
@@ -42,6 +42,6 @@ Zhejiang University - University of Illinois at Urbana-Champaign Institut￿￿2
 
 **C/C++￿￿Python**
 
-**Pubilcations:**
+**Publications:**
 
 Working hard on it....I hope soon....
