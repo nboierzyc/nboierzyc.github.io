@@ -50,4 +50,5 @@ redirect_from:
 
 ## Publications
 
-- Working hard on it... I hope soon....
+- Coauthor of a CVPR paper under submission: *MovieChat: From Dense Token to Sparse Memory for Long Video Understanding*
+
