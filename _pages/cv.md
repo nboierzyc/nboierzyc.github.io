@@ -4,14 +4,14 @@ Phone: (+86)15968096092. Email: yucheng.21@intl.zju.edu.cn
 
 **Education:**
 
-- **Zhejiang University  **Electric and Computer Engineering.  2021.9-
+- **Zhejiang University￿￿**Electric and Computer Engineering.￿￿2021.9-
 - **University of Illinois at Urbana-Champaign￿￿**Computer Engineering.￿￿2021.9 --
 
 **Research Experience:**
 
 **1. Research about week supervised motion detection￿￿Advisor: Prof Gaoang Wang**
 
-Using neural network method to detect and indentify motions with the learning data that’s not well labeled.
+Using neural network method to detect and identify motions with the learning data that’s not well labeled.
 
 2023\.3-
 
