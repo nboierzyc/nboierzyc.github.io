@@ -40,7 +40,7 @@ Zhejiang University - University of Illinois at Urbana-Champaign Institut￿￿2
 
 **Skills:**
 
-**C/C++￿￿Python**
+**C/C++  Python**
 
 **Publications:**
 
