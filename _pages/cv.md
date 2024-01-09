@@ -39,7 +39,7 @@ redirect_from:
    - Using neural network method to detect and identify motions with the learning data that’s not well labeled.
    - One of our works is finished and already under the submission of CVPR.
 
-2. **Research topic 2**
+2. **Research on encrypting DNN**
    - Participant of a summer research program
    - Duration: 2021.7 - 2021.8
    - Advisor: Jian Liu (Professor of Zhejiang University)
