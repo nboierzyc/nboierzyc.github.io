@@ -35,7 +35,7 @@ redirect_from:
 ## RESEARCH EXPERIENCES
 
 ### Research on Human-Object Interaction Benchmark build and representation | Individual Research
-- **Duration:** Feb. 2024 - June. 2024
+- **Duration:** Feb. 2024 - now
 - **Advisor:** Yuxiong Wang (Professor of University of Illinois Urbana Champaign)
 - There're few datasets that cover the human-object iteraction with detailed hand pose.
 - We build a dataset with 22.94 hours' of human-object interaction data as well as human-annotated detailed annotation for each split short video.
