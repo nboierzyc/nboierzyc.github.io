@@ -20,7 +20,7 @@ redirect_from:
 
 - Bachelor of Engineering in Computer Engineering
   - **Duration:** Sept. 2021 - Present
-  - **Overall GPA:** 3.78/4.0
+  - **Overall GPA:** 3.90/4.0
   - **Core Courses:** Data Structures, Computer Systems & Programming, Computer Systems Engineering, Database Systems, Intro to Algs & Models of Comp (Taken this semester), Machine Learning (Taken this semester)
   - **Overall GPA (UIUC):** 3.97 /4.0
   - **Awards and Honors:** 
