@@ -30,7 +30,7 @@ redirect_from:
 ## PUBLICATIONS
 
 - Authored as the second author in a paper titled “MovieChat: From Dense Token to Sparse Memory for Long Video Understanding” in CVPR 2024.
-- The first author in a paper titled "InterAct: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation" under review of NeurIPS 2024
+- The first author in a paper titled "InterAct: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation" under review of CVPR.
 
 ## RESEARCH EXPERIENCES
 
