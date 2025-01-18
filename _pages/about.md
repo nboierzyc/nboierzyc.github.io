@@ -27,7 +27,7 @@ My research interest lies in Computer Vision and Machine Learning. I am currentl
     display: flex;
     align-items: center;
     font-size: 14px; /* 调整字体大小 */
-    margin-bottom: 20px; /* 添加文章之间的间距 */
+    margin-bottom: 40px; /* 添加文章之间的间距 */
   }
   .publication img {
     width: 120px; /* 调整图片大小 */
