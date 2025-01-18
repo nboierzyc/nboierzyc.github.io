@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a forth year undergraduate student at Zhejiang University - University of Illinois Urbana Champaign Institute. I once did research under the guidance of (Prof Gaoang Wang)[https://person.zju.edu.cn/gaoangwang]  and (Prof Yuxiong Wang)[https://yxw.web.illinois.edu/].
+I am a forth year undergraduate student at Zhejiang University - University of Illinois Urbana Champaign Institute. I once did research under the guidance of [Prof Gaoang Wang](https://person.zju.edu.cn/gaoangwang)  and [Prof Yuxiong Wang](https://yxw.web.illinois.edu/).
 
 
 
