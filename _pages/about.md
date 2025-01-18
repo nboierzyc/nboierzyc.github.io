@@ -19,43 +19,40 @@ My research interest lies in Computer Vision and Machine Learning. I am currentl
 **Publications**
 ======
 <style>
+  .publication-container {
+    display: flex;
+    flex-direction: column;
+  }
   .publication {
     display: flex;
     align-items: center;
+    font-size: 14px; /* 调整字体大小 */
+    margin-bottom: 20px; /* 添加文章之间的间距 */
   }
   .publication img {
-    width: 150px;
+    width: 120px; /* 调整图片大小 */
     margin-right: 15px;
   }
 </style>
 
-<div class="publication">
-  <img src="https://nboierzyc.github.io/images/moviechat.png">
-  <div>
-    <strong>MovieChat: From Dense Token to Sparse Memory for Long Video Understanding</strong><br>
-    Enxin Song, Wenhao Chai, Guanhong Wang,  <strong> Yucheng Zhang</strong>, et al.<br>
-    CVPR, 2024<br>
-    [<a href="https://nboierzyc.github.io/files/moviechat.pdf">PDF</a>] 
+<div class="publication-container">
+  <div class="publication">
+    <img src="https://nboierzyc.github.io/images/moviechat.png">
+    <div>
+      <strong>MovieChat: From Dense Token to Sparse Memory for Long Video Understanding</strong><br>
+      Enxin Song, Wenhao Chai, Guanhong Wang, <strong>Yucheng Zhang</strong>, et al.<br>
+      CVPR, 2024<br>
+      [<a href="https://nboierzyc.github.io/files/moviechat.pdf">PDF</a>] 
       [<a href="https://github.com/rese1f/MovieChat">Code</a>] 
+    </div>
+  </div>
+
+  <div class="publication">
+    <img src="https://nboierzyc.github.io/images/interact.png">
+    <div>
+      <strong>InterAct: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation</strong><br>
+      Sirui Xu<sup>†</sup>, Dongting Li<sup>†</sup>, <strong>Yucheng Zhang</strong><sup>†</sup>, et al.<br>
+      Under review of CVPR<br>
+    </div>
   </div>
 </div>
-
-<style>
-  .publication {
-    display: flex;
-    align-items: center;
-  }
-  .publication img {
-    width: 150px;
-    margin-right: 15px;
-  }
-</style>
-
-<div class="publication">
-  <img src="https://nboierzyc.github.io/images/interact.png">
-  <div>
-    <strong> InterAct:AdvancingLarge-ScaleVersatile3DHuman-ObjectInteraction
- Generation</strong><br>
-    Sirui Xu<sup>†</sup>, Dongting Li<sup>†</sup>, <strong>Yucheng Zhang<strong><sup>†</sup>, et al.<br>
-    Under review of CVPR<br>
- 
