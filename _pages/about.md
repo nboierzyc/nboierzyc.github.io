@@ -39,3 +39,23 @@ I have a strong research interest on Computer Vision and Machine Learning, espec
   </div>
 </div>
 
+<style>
+  .publication {
+    display: flex;
+    align-items: center;
+  }
+  .publication img {
+    width: 150px;
+    margin-right: 15px;
+  }
+</style>
+
+<div class="publication">
+  <img src="https://nboierzyc.github.io/images/interact.png">
+  <div>
+    <strong> InterAct:AdvancingLarge-ScaleVersatile3DHuman-ObjectInteraction
+ Generation</strong><br>
+    Sirui Xu<sup>†</sup>, Dongting Li<sup>†</sup>, Yucheng Zhang<sup>†</sup>, et al.<br>
+    Under review of CVPR<br>
+  </div>
+</div>
