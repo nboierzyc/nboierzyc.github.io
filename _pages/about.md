@@ -9,17 +9,16 @@ redirect_from:
 Hi, welcome to my homepage. <br>
 I am a forth year undergraduate student at Zhejiang University - University of Illinois Urbana Champaign Institute. During my university experience, I spent one year in CVNext Lab of Zhejiang University under the guidance of [Prof Gaoang Wang](https://cvnext.github.io/), and spent one another year in UIUC supervised by [Prof Yuxiong Wang](https://yxw.web.illinois.edu/).<br>
 You can find my CV [here](https://nboierzyc.github.io/files/CV.pdf)
-
 <br>
 <br>
 <br>
-
 Research Interest
 ======
 My research interest lies in Computer Vision and Machine Learning. I am currently interested 3D resconstruction of human and objects from videos, as well as their interactions.
 <br>
 <br>
 <br>
+
 
 **Publications**
 ======
@@ -45,7 +44,7 @@ My research interest lies in Computer Vision and Machine Learning. I am currentl
     <img src="https://nboierzyc.github.io/images/moviechat.png">
     <div>
       <strong>MovieChat: From Dense Token to Sparse Memory for Long Video Understanding</strong><br>
-      Enxin Song, Wenhao Chai, Guanhong Wang, <strong>Yucheng Zhang</strong>, et al.<br>
+      Enxin Song<sup>†</sup>, Wenhao Chai<sup>†</sup>, Guanhong Wang<sup>†</sup>, <strong>Yucheng Zhang</strong>,  Haoyang Zhou, Feiyang Wu, Haozhe Chi, Xun Guo, Tian Ye, Yanting Zhang, Yan Lu, Jenq-Neng Hwang, Gaoang Wang <br>
       CVPR, 2024<br>
       [<a href="https://nboierzyc.github.io/files/moviechat.pdf">PDF</a>] 
       [<a href="https://github.com/rese1f/MovieChat">Code</a>] 
@@ -56,7 +55,7 @@ My research interest lies in Computer Vision and Machine Learning. I am currentl
     <img src="https://nboierzyc.github.io/images/interact.png">
     <div>
       <strong>InterAct: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation</strong><br>
-      Sirui Xu<sup>†</sup>, Dongting Li<sup>†</sup>, <strong>Yucheng Zhang</strong><sup>†</sup>, et al.<br>
+      Sirui Xu<sup>†</sup>, Dongting Li<sup>†</sup>, <strong>Yucheng Zhang</strong><sup>†</sup>, Xiyan Xu<sup>†</sup>, Qi Long<sup>†</sup>, Ziyin Wang<sup>†</sup>, Yunzhi Lu, Shuchang Dong, Hezi Jiang, Akshat Gupta, Yu-Xiong Wang, Liangyan Gui <br>
       Under review of CVPR<br>
     </div>
   </div>
