@@ -29,16 +29,16 @@ My research interest lies in Computer Vision and Machine Learning. I am currentl
   .publication {
     display: flex;
     align-items: center;
-    font-size: 14px; /* 调整字体大小 */
-    margin-bottom: 40px; /* 添加文章之间的间距 */
+    font-size: 14px; /* 仅调整作者等普通文本的字体大小 */
+    margin-bottom: 40px; /* 文章之间的间距 */
+  }
+  .publication-title {
+    font-size: 18px; /* 调整论文标题字体大小 */
+    font-weight: bold; /* 让标题更突出 */
   }
   .publication img {
     width: 120px; /* 调整图片大小 */
     margin-right: 15px;
-  }
-  .publication-title {
-    font-size: 18px; /* 单独调整论文标题字体大小 */
-    font-weight: bold; /* 让标题更突出 */
   }
 </style>
 
@@ -46,8 +46,8 @@ My research interest lies in Computer Vision and Machine Learning. I am currentl
   <div class="publication">
     <img src="https://nboierzyc.github.io/images/moviechat.png">
     <div>
-      <div class="publication-title"><strong>MovieChat: From Dense Token to Sparse Memory for Long Video Understanding</strong><br>
-      Enxin Song<sup>†</sup>, Wenhao Chai<sup>†</sup>, Guanhong Wang<sup>†</sup>, <strong>Yucheng Zhang</strong>,  Haoyang Zhou, Feiyang Wu, Haozhe Chi, Xun Guo, Tian Ye, Yanting Zhang, Yan Lu, Jenq-Neng Hwang, Gaoang Wang <br>
+      <div class="publication-title">MovieChat: From Dense Token to Sparse Memory for Long Video Understanding</div>
+      Enxin Song<sup>†</sup>, Wenhao Chai<sup>†</sup>, Guanhong Wang<sup>†</sup>, <strong>Yucheng Zhang</strong>, Haoyang Zhou, Feiyang Wu, Haozhe Chi, Xun Guo, Tian Ye, Yanting Zhang, Yan Lu, Jenq-Neng Hwang, Gaoang Wang <br>
       CVPR, 2024<br>
       [<a href="https://nboierzyc.github.io/files/moviechat.pdf">PDF</a>] 
       [<a href="https://github.com/rese1f/MovieChat">Code</a>] 
@@ -57,7 +57,7 @@ My research interest lies in Computer Vision and Machine Learning. I am currentl
   <div class="publication">
     <img src="https://nboierzyc.github.io/images/interact.png">
     <div>
-      <div class="publication-title"><strong>InterAct: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation</strong><br>
+      <div class="publication-title">InterAct: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation</div>
       Sirui Xu<sup>†</sup>, Dongting Li<sup>†</sup>, <strong>Yucheng Zhang</strong><sup>†</sup>, Xiyan Xu<sup>†</sup>, Qi Long<sup>†</sup>, Ziyin Wang<sup>†</sup>, Yunzhi Lu, Shuchang Dong, Hezi Jiang, Akshat Gupta, Yu-Xiong Wang, Liangyan Gui <br>
       Under review of CVPR<br>
     </div>
