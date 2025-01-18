@@ -17,3 +17,20 @@ I have a strong research interest on Computer Vision and Machine Learning, espec
 
 **Publications**
 ======
+<table>
+  <tr>
+    <td>
+      <img src="https://nboierzyc.github.io/images/moviechat.png" width="150">
+    </td>
+    <td>
+      <strong>MovieChat: From Dense Token to Sparse Memory for Long Video Understanding</strong>  
+      <br>
+      Enxin Song, Wenhao Chai, Guanhong Wang,  <strong> Yucheng Zhang</strong>, et al.
+      <br>
+      CVPR, 2024  
+      <br>
+      [<a href="https://nboierzyc.github.io/files/moviechat.pdf">PDF</a>] 
+      [<a href="https://github.com/rese1f/MovieChat">Code</a>] 
+    </td>
+  </tr>
+</table>
