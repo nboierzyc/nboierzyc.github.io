@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 Hi, welcome to my homepage. <br>
-I am a forth year undergraduate student at Zhejiang University - University of Illinois Urbana Champaign Institute. During my university experience, I spent one year in CVNext Lab of Zhejiang University under the guidance of [Prof Gaoang Wang](https://cvnext.github.io/), and spend another year in UIUC supervised by [Prof Yuxiong Wang](https://yxw.web.illinois.edu/).<br>
+I am a forth year undergraduate student at Zhejiang University - University of Illinois Urbana Champaign Institute. During my university experience, I spent one year in CVNext Lab of Zhejiang University under the guidance of [Prof Gaoang Wang](https://cvnext.github.io/), and spent one another year in UIUC supervised by [Prof Yuxiong Wang](https://yxw.web.illinois.edu/).<br>
 You can find my CV [here](https://nboierzyc.github.io/files/CV.pdf)
 
 
