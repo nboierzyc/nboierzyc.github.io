@@ -7,13 +7,14 @@ redirect_from:
   - /about.html
 ---
 Hi, welcome to my homepage. <br>
-I am a forth year undergraduate student at Zhejiang University - University of Illinois Urbana Champaign Institute. I once did research under the guidance of [Prof Gaoang Wang](https://person.zju.edu.cn/gaoangwang)  and [Prof Yuxiong Wang](https://yxw.web.illinois.edu/). And you can find my CV [here](https://nboierzyc.github.io/files/CV.pdf)
+I am a forth year undergraduate student at Zhejiang University - University of Illinois Urbana Champaign Institute. During my university experience, I spent one year in CVNext Lab of Zhejiang University under the guidance of [Prof Gaoang Wang](https://cvnext.github.io/), and spend another year in UIUC advsing by [Prof Yuxiong Wang](https://yxw.web.illinois.edu/).<br>
+You can find my CV [here](https://nboierzyc.github.io/files/CV.pdf)
 
 
 
 Research Interest
 ======
-I have a strong research interest on Computer Vision and Machine Learning, especially in the topics of 3D resconstruction of human and objects from videos, as well as their interactions.
+I have a strong research interest on Computer Vision and Machine Learning, likes the topics of 3D resconstruction of human and objects from videos, as well as their interactions.
 
 **Publications**
 ======
@@ -55,7 +56,7 @@ I have a strong research interest on Computer Vision and Machine Learning, espec
   <div>
     <strong> InterAct:AdvancingLarge-ScaleVersatile3DHuman-ObjectInteraction
  Generation</strong><br>
-    Sirui Xu<sup>†</sup>, Dongting Li<sup>†</sup>, Yucheng Zhang<sup>†</sup>, et al.<br>
+    Sirui Xu<sup>†</sup>, Dongting Li<sup>†</sup>, <strong>Yucheng Zhang<strong><sup>†</sup>, et al.<br>
     Under review of CVPR<br>
   </div>
 </div>
