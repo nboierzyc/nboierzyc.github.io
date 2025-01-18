@@ -14,7 +14,7 @@ You can find my CV [here](https://nboierzyc.github.io/files/CV.pdf)
 
 Research Interest
 ======
-I have a strong research interest on Computer Vision and Machine Learning, likes the topics of 3D resconstruction of human and objects from videos, as well as their interactions.
+My research interest lies in Computer Vision and Machine Learning. I am currently interested 3D resconstruction of human and objects from videos, as well as their interactions.
 
 **Publications**
 ======
@@ -58,5 +58,4 @@ I have a strong research interest on Computer Vision and Machine Learning, likes
  Generation</strong><br>
     Sirui Xu<sup>†</sup>, Dongting Li<sup>†</sup>, <strong>Yucheng Zhang<strong><sup>†</sup>, et al.<br>
     Under review of CVPR<br>
-  </div>
-</div>
+ 
