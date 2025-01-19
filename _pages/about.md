@@ -13,7 +13,7 @@ You can find my CV [here](https://nboierzyc.github.io/files/CV.pdf)
 
 Research Interest
 ======
-My research interest lies in Computer Vision and Machine Learning. I am currently interested 3D resconstruction of human and objects from videos, as well as their interactions.
+My research interest lies in Computer Vision and Machine Learning. I am currently interested in 3D resconstruction of human and objects from videos, as well as their interactions.
 <br>
 <br>
 <br>
