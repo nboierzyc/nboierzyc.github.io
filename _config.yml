@@ -36,7 +36,7 @@ author:
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Yucheng-Zhang-26?ev=prf_overview"
   scopus           : # URL
 
   # Repositories and software development
