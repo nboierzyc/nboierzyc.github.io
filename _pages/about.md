@@ -30,20 +30,32 @@ My research interest lies in Computer Vision and Machine Learning. I am currentl
   .publication {
     display: flex;
     align-items: center;
-    font-size: 14px; /* 仅调整作者等普通文本的字体大小 */
-    margin-bottom: 40px; /* 文章之间的间距 */
+    font-size: 14px; 
+    margin-bottom: 40px; 
   }
   .publication-title {
-    font-size: 18px; /* 调整论文标题字体大小 */
-    font-weight: bold; /* 让标题更突出 */
+    font-size: 18px; 
+    font-weight: bold;
   }
   .publication img {
-    width: 120px; /* 调整图片大小 */
+    width: 120px; 
     margin-right: 15px;
   }
 </style>
 
 <div class="publication-container">
+  
+  <div class="publication">
+    <img src="https://nboierzyc.github.io/images/interact.png">
+    <div>
+      <div class="publication-title">InterAct: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation</div>
+      Sirui Xu<sup>†</sup>, Dongting Li<sup>†</sup>, <strong>Yucheng Zhang</strong><sup>†</sup>, Xiyan Xu<sup>†</sup>, Qi Long<sup>†</sup>, Ziyin Wang<sup>†</sup>, Yunzhi Lu, Shuchang Dong, Hezi Jiang, Akshat Gupta, Yu-Xiong Wang, Liangyan Gui <br>
+      CVPR 2025<br>
+      [<a href="https://nboierzyc.github.io/files/InterAct.pdf">PDF</a>] 
+      [<a href="https://github.com/wzyabcas/InterAct">Code</a>]
+      
+    </div>
+  </div>
   <div class="publication">
     <img src="https://nboierzyc.github.io/images/moviechat.png">
     <div>
@@ -55,14 +67,4 @@ My research interest lies in Computer Vision and Machine Learning. I am currentl
     </div>
   </div>
 
-  <div class="publication">
-    <img src="https://nboierzyc.github.io/images/interact.png">
-    <div>
-      <div class="publication-title">InterAct: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation</div>
-      Sirui Xu<sup>†</sup>, Dongting Li<sup>†</sup>, <strong>Yucheng Zhang</strong><sup>†</sup>, Xiyan Xu<sup>†</sup>, Qi Long<sup>†</sup>, Ziyin Wang<sup>†</sup>, Yunzhi Lu, Shuchang Dong, Hezi Jiang, Akshat Gupta, Yu-Xiong Wang, Liangyan Gui <br>
-      [<a href="https://nboierzyc.github.io/files/InterAct.pdf">PDF</a>] 
-      [<a href="https://github.com/wzyabcas/InterAct">Code</a>]
-      Under review of CVPR<br>
-    </div>
-  </div>
 </div>
