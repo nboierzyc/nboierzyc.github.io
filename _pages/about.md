@@ -60,6 +60,8 @@ My research interest lies in Computer Vision and Machine Learning. I am currentl
     <div>
       <div class="publication-title">InterAct: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation</div>
       Sirui Xu<sup>†</sup>, Dongting Li<sup>†</sup>, <strong>Yucheng Zhang</strong><sup>†</sup>, Xiyan Xu<sup>†</sup>, Qi Long<sup>†</sup>, Ziyin Wang<sup>†</sup>, Yunzhi Lu, Shuchang Dong, Hezi Jiang, Akshat Gupta, Yu-Xiong Wang, Liangyan Gui <br>
+      [<a href="https://nboierzyc.github.io/files/InterAct.pdf">PDF</a>] 
+      [<a href="https://github.com/wzyabcas/InterAct">Code</a>]
       Under review of CVPR<br>
     </div>
   </div>
