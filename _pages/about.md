@@ -49,7 +49,7 @@ My research interest lies in Computer Vision and Machine Learning. I am currentl
     <div>
       <div class="publication-title">HandX+: Scaling Up Bimanual Motion Generation</div>
       Zimu Zhang<sup>†</sup>, Yucheng Zhang<sup>†</sup>, Xiyan Xu, Ziyin Wang, Sirui Xu, Kai Zhou, Bing Zhou, Chuan Guo, Jian Wang, Yu-Xiong Wang, Liangyan Gui <br>
-      CVPR 2028<br>
+      CVPR 2026<br>
       <!-- [<a href="https://nboierzyc.github.io/files/InterAct.pdf">PDF</a>] 
       [<a href="https://github.com/wzyabcas/InterAct">Code</a>] -->
       
