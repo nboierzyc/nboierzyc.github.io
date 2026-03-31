@@ -44,14 +44,27 @@ My research interest lies in Computer Vision and Machine Learning. I am currentl
 </style>
 
 <div class="publication-container">
+<div class="publication">
+    <img src="https://nboierzyc.github.io/images/handx.png">
+    <div>
+      <div class="publication-title">HandX: Scaling Bimanual Motion and Interaction Generation</div>
+      Zimu Zhang<sup>†</sup>, <strong>Yucheng Zhang</strong><sup>†</sup>, Xiyan Xu, Ziyin Wang, Sirui Xu, Kai Zhou, Bing Zhou, Chuan Guo, Jian Wang, Yu-Xiong Wang, Liang-Yan Gui <br>
+      CVPR 2026<br>
+      [<a href="https://nboierzyc.github.io/files/HandX.pdf">PDF</a>] 
+      [<a href="https://github.com/handx-project/HandX">Code</a>]
+      [<a href="https://handx-project.github.io/">Project Page</a>]
+    </div>
+  </div>
+
   <div class="publication">
     <img src="https://nboierzyc.github.io/images/interact.png">
     <div>
       <div class="publication-title">InterAct: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation</div>
-      Sirui Xu<sup>†</sup>, Dongting Li<sup>†</sup>, <strong>Yucheng Zhang</strong><sup>†</sup>, Xiyan Xu<sup>†</sup>, Qi Long<sup>†</sup>, Ziyin Wang<sup>†</sup>, Yunzhi Lu, Shuchang Dong, Hezi Jiang, Akshat Gupta, Yu-Xiong Wang, Liangyan Gui <br>
+      Sirui Xu<sup>†</sup>, Dongting Li<sup>†</sup>, <strong>Yucheng Zhang</strong><sup>†</sup>, Xiyan Xu<sup>†</sup>, Qi Long<sup>†</sup>, Ziyin Wang<sup>†</sup>, Yunzhi Lu, Shuchang Dong, Hezi Jiang, Akshat Gupta, Yu-Xiong Wang, Liang-Yan Gui <br>
       CVPR 2025<br>
       [<a href="https://nboierzyc.github.io/files/InterAct.pdf">PDF</a>] 
       [<a href="https://github.com/wzyabcas/InterAct">Code</a>]
+      [<a href="https://sirui-xu.github.io/InterAct/">Project Page</a>]
       
     </div>
   </div>
@@ -63,6 +76,7 @@ My research interest lies in Computer Vision and Machine Learning. I am currentl
       CVPR, 2024<br>
       [<a href="https://nboierzyc.github.io/files/moviechat.pdf">PDF</a>] 
       [<a href="https://github.com/rese1f/MovieChat">Code</a>] 
+      [<a href="https://rese1f.github.io/MovieChat/">Project Page</a>]
     </div>
   </div>
 
