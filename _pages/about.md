@@ -14,7 +14,7 @@ You can find my CV [here](https://nboierzyc.github.io/files/CV.pdf)
 
 Research Interest
 ======
-My research interest lies in Computer Vision and Robotics, and currently focus in humanoid robot manipulation and human motion.
+My research interest lies in Computer Vision and Robotics, with a current focus on humanoid robot manipulation and human motion.
 <br>
 <br>
 <br>
