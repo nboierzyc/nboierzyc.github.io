@@ -1,0 +1,92 @@
+<style>
+  .publication-container {
+    display: flex;
+    flex-direction: column;
+  }
+  .publication {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    font-size: 14px;
+    margin-bottom: 40px;
+  }
+  .publication-title {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .publication img {
+    width: 120px;
+    height: auto;
+    flex-shrink: 0;
+  }
+  .publication img.intermimicgen-teaser {
+    height: 46px;
+    object-fit: cover;
+    object-position: left center;
+  }
+  .publication > div {
+    min-width: 0;
+  }
+  p.publication-note {
+    color: #767676;
+    font-size: 12px;
+  }
+  @media (max-width: 480px) {
+    .publication {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  }
+</style>
+
+<div class="publication-container">
+  <div class="publication">
+    <img class="intermimicgen-teaser" src="{{ '/images/intermimicgen-teaser.png' | relative_url }}" alt="Left panel of the InterMimicGen teaser showing diverse robot interactions" loading="lazy">
+    <div>
+      <div class="publication-title">InterMimicGen: Scaling Humanoid Loco-Manipulation Through Self-Evolving Motion Imitation</div>
+      <strong>Yucheng Zhang</strong><sup>†</sup>, Sirui Xu<sup>†</sup>, Jinhong Li<sup>†</sup>, Liuyu Bian<sup>†</sup>, Anatulya Nandi, Derek Zhang, Xiangchen Liu, Xueting Li, Umar Iqbal, Yu-Xiong Wang, Liang-Yan Gui<br>
+      Under review at ICLR 2027<br>
+      [<a href="https://arxiv.org/pdf/2610.06850">PDF</a>]
+      [<a href="https://arxiv.org/abs/2610.06850">arXiv</a>]
+      [<a href="https://sirui-xu.github.io/InterMimicGen/">Project Page</a>]
+    </div>
+  </div>
+
+  <div class="publication">
+    <img src="{{ '/images/handx.png' | relative_url }}" alt="HandX bimanual motion and interaction generation" loading="lazy">
+    <div>
+      <div class="publication-title">HandX: Scaling Bimanual Motion and Interaction Generation</div>
+      Zimu Zhang<sup>†</sup>, <strong>Yucheng Zhang</strong><sup>†</sup>, Xiyan Xu, Ziyin Wang, Sirui Xu, Kai Zhou, Bing Zhou, Chuan Guo, Jian Wang, Yu-Xiong Wang, Liang-Yan Gui<br>
+      CVPR 2026<br>
+      [<a href="{{ '/files/HandX.pdf' | relative_url }}">PDF</a>]
+      [<a href="https://github.com/handx-project/HandX">Code</a>]
+      [<a href="https://handx-project.github.io/">Project Page</a>]
+    </div>
+  </div>
+
+  <div class="publication">
+    <img src="{{ '/images/interact.png' | relative_url }}" alt="InterAct 3D human-object interaction generation" loading="lazy">
+    <div>
+      <div class="publication-title">InterAct: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation</div>
+      Sirui Xu<sup>†</sup>, Dongting Li<sup>†</sup>, <strong>Yucheng Zhang</strong><sup>†</sup>, Xiyan Xu<sup>†</sup>, Qi Long<sup>†</sup>, Ziyin Wang<sup>†</sup>, Yunzhi Lu, Shuchang Dong, Hezi Jiang, Akshat Gupta, Yu-Xiong Wang, Liang-Yan Gui<br>
+      CVPR 2025<br>
+      [<a href="{{ '/files/InterAct.pdf' | relative_url }}">PDF</a>]
+      [<a href="https://github.com/wzyabcas/InterAct">Code</a>]
+      [<a href="https://sirui-xu.github.io/InterAct/">Project Page</a>]
+    </div>
+  </div>
+
+  <div class="publication">
+    <img src="{{ '/images/moviechat.png' | relative_url }}" alt="MovieChat long video understanding" loading="lazy">
+    <div>
+      <div class="publication-title">MovieChat: From Dense Token to Sparse Memory for Long Video Understanding</div>
+      Enxin Song<sup>†</sup>, Wenhao Chai<sup>†</sup>, Guanhong Wang<sup>†</sup>, <strong>Yucheng Zhang</strong>, Haoyang Zhou, Feiyang Wu, Haozhe Chi, Xun Guo, Tian Ye, Yanting Zhang, Yan Lu, Jenq-Neng Hwang, Gaoang Wang<br>
+      CVPR 2024<br>
+      [<a href="{{ '/files/moviechat.pdf' | relative_url }}">PDF</a>]
+      [<a href="https://github.com/rese1f/MovieChat">Code</a>]
+      [<a href="https://rese1f.github.io/MovieChat/">Project Page</a>]
+    </div>
+  </div>
+</div>
+
+<p class="publication-note"><sup>†</sup> Equal contribution.</p>

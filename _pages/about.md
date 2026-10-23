@@ -1,83 +1,25 @@
 ---
 permalink: /
 title: "Yucheng Zhang's HomePage"
+excerpt: "MSCS student at UIUC researching humanoid loco-manipulation and human motion."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 Hi, welcome to my homepage. <br>
-I am a MSCS student at University of Illinois Urbana Champaign. During my undergraduate experience, I spent one year in CVNext Lab of Zhejiang University under the guidance of [Prof Gaoang Wang](https://cvnext.github.io/), and spent one another year in UIUC supervised by [Prof Yu-Xiong Wang](https://yxw.web.illinois.edu/).<br>
-Currently, I am working under supervision of [Prof. Liang-Yan Gui](https://lgui.cs.illinois.edu/index.html) and [Prof. Yu-Xiong Wang](https://yxw.web.illinois.edu/).
-You can find my CV [here](https://nboierzyc.github.io/files/CV.pdf)
+I am an M.S. student in Computer Science at the University of Illinois Urbana-Champaign (UIUC), advised by [Prof. Liang-Yan Gui](https://lgui.cs.illinois.edu/index.html) and [Prof. Yu-Xiong Wang](https://yxw.web.illinois.edu/). During my undergraduate studies, I also worked with [Prof. Gaoang Wang](https://cvnext.github.io/) at CVNext Lab, Zhejiang University.<br>
+You can find my CV [here]({{ '/files/CV.pdf' | relative_url }})
 <br>
 
 Research Interest
 ======
-My research interest lies in Computer Vision and Robotics, with a current focus on humanoid robot manipulation and human motion.
+My research interests lie in Computer Vision and Robotics, with a current focus on **humanoid loco-manipulation** and **human motion**.
 <br>
 <br>
 <br>
-
 
 **Publications**
 ======
-<style>
-  .publication-container {
-    display: flex;
-    flex-direction: column;
-  }
-  .publication {
-    display: flex;
-    align-items: center;
-    font-size: 14px; 
-    margin-bottom: 40px; 
-  }
-  .publication-title {
-    font-size: 18px; 
-    font-weight: bold;
-  }
-  .publication img {
-    width: 120px; 
-    margin-right: 15px;
-  }
-</style>
 
-<div class="publication-container">
-<div class="publication">
-    <img src="https://nboierzyc.github.io/images/handx.png">
-    <div>
-      <div class="publication-title">HandX: Scaling Bimanual Motion and Interaction Generation</div>
-      Zimu Zhang<sup>†</sup>, <strong>Yucheng Zhang</strong><sup>†</sup>, Xiyan Xu, Ziyin Wang, Sirui Xu, Kai Zhou, Bing Zhou, Chuan Guo, Jian Wang, Yu-Xiong Wang, Liang-Yan Gui <br>
-      CVPR 2026<br>
-      [<a href="https://nboierzyc.github.io/files/HandX.pdf">PDF</a>] 
-      [<a href="https://github.com/handx-project/HandX">Code</a>]
-      [<a href="https://handx-project.github.io/">Project Page</a>]
-    </div>
-  </div>
-
-  <div class="publication">
-    <img src="https://nboierzyc.github.io/images/interact.png">
-    <div>
-      <div class="publication-title">InterAct: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation</div>
-      Sirui Xu<sup>†</sup>, Dongting Li<sup>†</sup>, <strong>Yucheng Zhang</strong><sup>†</sup>, Xiyan Xu<sup>†</sup>, Qi Long<sup>†</sup>, Ziyin Wang<sup>†</sup>, Yunzhi Lu, Shuchang Dong, Hezi Jiang, Akshat Gupta, Yu-Xiong Wang, Liang-Yan Gui <br>
-      CVPR 2025<br>
-      [<a href="https://nboierzyc.github.io/files/InterAct.pdf">PDF</a>] 
-      [<a href="https://github.com/wzyabcas/InterAct">Code</a>]
-      [<a href="https://sirui-xu.github.io/InterAct/">Project Page</a>]
-      
-    </div>
-  </div>
-  <div class="publication">
-    <img src="https://nboierzyc.github.io/images/moviechat.png">
-    <div>
-      <div class="publication-title">MovieChat: From Dense Token to Sparse Memory for Long Video Understanding</div>
-      Enxin Song<sup>†</sup>, Wenhao Chai<sup>†</sup>, Guanhong Wang<sup>†</sup>, <strong>Yucheng Zhang</strong>, Haoyang Zhou, Feiyang Wu, Haozhe Chi, Xun Guo, Tian Ye, Yanting Zhang, Yan Lu, Jenq-Neng Hwang, Gaoang Wang <br>
-      CVPR, 2024<br>
-      [<a href="https://nboierzyc.github.io/files/moviechat.pdf">PDF</a>] 
-      [<a href="https://github.com/rese1f/MovieChat">Code</a>] 
-      [<a href="https://rese1f.github.io/MovieChat/">Project Page</a>]
-    </div>
-  </div>
-
-</div>
+{% include publications.html %}
